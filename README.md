@@ -1,10 +1,13 @@
 # ows-vue
 
-> Nuxt.js project
+> Ows Site with Vue and Nuxt
 
 ## Build Setup
 
 ``` bash
+#node version
+v9.6.1 (npm v5.6.0)
+
 # install dependencies
 $ npm install # Or yarn install
 
